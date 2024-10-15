@@ -1,0 +1,5 @@
+DVC_Lab/
+*.dvcignore
+*.json
+.venv/
+.DS_Store
